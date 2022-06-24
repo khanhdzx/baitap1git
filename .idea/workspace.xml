@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5374a150-5ffe-4aea-8c6b-b8142852d682" name="Changes" comment="" />
+    <list default="true" id="5374a150-5ffe-4aea-8c6b-b8142852d682" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/baitap3.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap3.2.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap3.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,11 +63,26 @@
       <workItem from="1655953460000" duration="4619000" />
       <workItem from="1655968311403" duration="503000" />
       <workItem from="1655968832324" duration="204000" />
-      <workItem from="1655970052116" duration="2020000" />
+      <workItem from="1655970052116" duration="2448000" />
+      <workItem from="1655973007982" duration="160000" />
+      <workItem from="1656000686005" duration="773000" />
+      <workItem from="1656032689347" duration="10463000" />
+      <workItem from="1656053722023" duration="6427000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
